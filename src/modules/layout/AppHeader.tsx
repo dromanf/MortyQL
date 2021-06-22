@@ -35,7 +35,7 @@ const AppHeader = React.forwardRef((props, ref) => {
           <NextLink className={classes.logoLink} href="/">
             <img src="/images/logo.png" alt="Rick and Morty" />
             <Typography variant="h5" color="textPrimary">
-              RICKQL
+              MortQL
             </Typography>
           </NextLink>
           <Box flexGrow={1} />
